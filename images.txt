@@ -1,1 +1,1 @@
-woodydon/psi_sigma_pipeline:4.0
+docker.io/woodydon/psi_sigma_pipeline:4.0
