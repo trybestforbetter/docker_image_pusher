@@ -1,1 +1,2 @@
 docker.io/woodydon/psi_sigma_pipeline:4.0
+william0701/scses:rstudio
